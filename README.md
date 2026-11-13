@@ -6,7 +6,7 @@ I study Computer Engineering at UFRPE, in Brazil. I mostly write backend code in
 
 - [garimpo-olx-bot](https://github.com/Guilherme-L-C/garimpo-olx-bot): watches OLX listings, compares prices with the rest of the market and sends me a Telegram alert when a deal looks good. Gemini rates each listing.
 - [newsletter-ia](https://github.com/Guilherme-L-C/newsletter-ia): my weekly AI newsletter. It collects papers and repos, a model filters them and I read what's left.
-- [Secure chat](https://github.com/Guilherme-L-C/Chat_ComputerNetworking) ([client](https://github.com/Guilherme-L-C/Chat_Client)): end-to-end encrypted chat over TCP, built for my Computer Networks course.
+- [secure-chat](https://github.com/Guilherme-L-C/secure-chat): end-to-end encrypted chat over TCP, server and desktop client, built for my Computer Networks course.
 - [HTTP server](https://github.com/Guilherme-L-C/Server_ComputerNetworking): an HTTP/1.1 server written from scratch with sockets.
 - [Agentic Second Brain](https://github.com/Guilherme-L-C/agentic-second-brain-template): an Obsidian template that an AI agent keeps organized for you.
 
