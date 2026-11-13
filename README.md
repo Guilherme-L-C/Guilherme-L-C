@@ -1,32 +1,27 @@
-# Hi, I'm Guilherme 👋
+# Hi, I'm Guilherme
 
-Computer Engineering student at UFRPE. I build backend services in Python and put LLMs to work on real problems — with tests, measured results and an eye on cost.
+I study Computer Engineering at UFRPE, in Brazil. I mostly write backend code in Python, and lately a lot of my projects use LLMs.
 
-**Open to backend internships.**
+I'm looking for a backend internship.
 
-## Featured projects
+## Projects
 
-| Project | What it is | Stack |
-| :--- | :--- | :--- |
-| [garimpo-olx-bot](https://github.com/Guilherme-L-C/garimpo-olx-bot) | Deal hunter that prices OLX listings against the market and real GPU benchmarks, scores them with Gemini and sends Telegram alerts | Python · SQLite · Gemini · Telegram API |
-| [newsletter-ia](https://github.com/Guilherme-L-C/newsletter-ia) | Weekly AI newsletter from primary sources: cheap collection, batched LLM triage with measured agreement, Claude curation | Python · SQLite · systemd · LLMs |
-| [Secure chat](https://github.com/Guilherme-L-C/Chat_ComputerNetworking) ([client](https://github.com/Guilherme-L-C/Chat_Client)) | End-to-end encrypted chat over raw TCP with signed key exchange and forward secrecy | Python · X25519 · Ed25519 · AES · Argon2id |
-| [HTTP/1.1 server](https://github.com/Guilherme-L-C/Server_ComputerNetworking) | Web server from scratch on raw sockets, no frameworks | Python · sockets · threading |
-| [Agentic Second Brain](https://github.com/Guilherme-L-C/agentic-second-brain-template) | Obsidian template that AI agents maintain for you, with built-in skills | Markdown · AI agents |
+- [garimpo-olx-bot](https://github.com/Guilherme-L-C/garimpo-olx-bot): watches OLX listings, compares prices with the rest of the market and sends me a Telegram alert when a deal looks good. Gemini rates each listing.
+- [newsletter-ia](https://github.com/Guilherme-L-C/newsletter-ia): my weekly AI newsletter. It collects papers and repos, a model filters them and I read what's left.
+- [Secure chat](https://github.com/Guilherme-L-C/Chat_ComputerNetworking) ([client](https://github.com/Guilherme-L-C/Chat_Client)): end-to-end encrypted chat over TCP, built for my Computer Networks course.
+- [HTTP server](https://github.com/Guilherme-L-C/Server_ComputerNetworking): an HTTP/1.1 server written from scratch with sockets.
+- [Agentic Second Brain](https://github.com/Guilherme-L-C/agentic-second-brain-template): an Obsidian template that an AI agent keeps organized for you.
 
-**In progress:** *Trash-e*, a smart recycling bin built with my university team — an ESP32-S3 camera classifies each item, a layered FastAPI backend stores events, and a React dashboard shows CO₂ avoided and recycling revenue per company.
+I'm also building Trash-e with my university team: a smart recycling bin with an ESP32 camera, a FastAPI backend and a React dashboard. The code will be public soon.
 
 ## Client work
 
-Private code, described without client details.
+The code for these is private.
 
-- **EHR SaaS for clinics** — multi-tenant electronic health records in Django, with subscriptions, invites and PDF reports. Used by an outpatient clinic until it closed.
-- **Smart parking pilot** — live occupancy heat map for a city's paid parking zone in Pernambuco, with dynamic pricing and an admin panel (FastAPI, Leaflet).
-- **Landing page for a dental clinic.**
-- **Prospecta** *(own product)* — lead prospecting tool: finds businesses on Google Maps, audits their websites, scores them and drafts outreach with AI (Next.js, Postgres, Gemini).
+- An electronic health records system in Django, used by an outpatient clinic until it closed.
+- A parking occupancy map for a city in Pernambuco, built with FastAPI and Leaflet.
+- A landing page for a dental clinic.
 
-## Tools
+## Contact
 
-Python · FastAPI · Django · SQLite · PostgreSQL · React · TypeScript · Docker · Git · Linux · LLM APIs (Claude, Gemini)
-
-📫 [guilhermeleite211@gmail.com](mailto:guilhermeleite211@gmail.com)
+guilhermeleite211@gmail.com
