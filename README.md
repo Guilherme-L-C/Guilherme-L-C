@@ -2,8 +2,6 @@
 
 I study Computer Engineering at UFRPE, in Brazil. I mostly write backend code in Python, and lately a lot of my projects use LLMs.
 
-I'm looking for a backend internship.
-
 ## Projects
 
 - [garimpo-olx-bot](https://github.com/Guilherme-L-C/garimpo-olx-bot): watches OLX listings, compares prices with the rest of the market and sends me a Telegram alert when a deal looks good. Gemini rates each listing.
